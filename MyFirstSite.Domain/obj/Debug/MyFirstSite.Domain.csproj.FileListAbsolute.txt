@@ -1,0 +1,75 @@
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\MyFirstSite.Domain.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\MyFirstSite.Domain.pdb
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\System.Web.Helpers.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\System.Web.Mvc.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\System.Web.Razor.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\System.Web.Helpers.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\System.Web.Mvc.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\System.Web.Razor.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\obj\Debug\MyFirstSite.Domain.csprojAssemblyReference.cache
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\obj\Debug\MyFirstSite.Domain.csproj.CoreCompileInputs.cache
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\obj\Debug\MyFirstSite.Domain.csproj.CopyComplete
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\obj\Debug\MyFirstSite.Domain.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\obj\Debug\MyFirstSite.Domain.pdb
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\MyFirstSite.Domain.dll.config
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\EntityFramework.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\EntityFramework.SqlServer.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\EntityFramework.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.Domain\bin\Debug\EntityFramework.SqlServer.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\MyFirstSite.Domain.dll.config
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\MyFirstSite.Domain.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\MyFirstSite.Domain.pdb
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\EntityFramework.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\EntityFramework.SqlServer.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.Helpers.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.Mvc.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.Razor.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\EntityFramework.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\EntityFramework.SqlServer.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.Helpers.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.Mvc.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.Razor.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\obj\Debug\MyFirstSite.Domain.csprojAssemblyReference.cache
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\obj\Debug\MyFirstSite.Domain.csproj.CoreCompileInputs.cache
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\obj\Debug\MyFirstSite.Domain.csproj.CopyComplete
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\obj\Debug\MyFirstSite.Domain.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.Domain\obj\Debug\MyFirstSite.Domain.pdb
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\MyFirstSite.Domain.dll.config
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\MyFirstSite.Domain.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\MyFirstSite.Domain.pdb
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\EntityFramework.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\EntityFramework.SqlServer.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.Helpers.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.Mvc.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.Razor.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\EntityFramework.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\EntityFramework.SqlServer.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.Helpers.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.Mvc.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.Razor.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\obj\Debug\MyFirstSite.Domain.csprojAssemblyReference.cache
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\obj\Debug\MyFirstSite.Domain.csproj.CoreCompileInputs.cache
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\obj\Debug\MyFirstSite.Domain.csproj.CopyComplete
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\obj\Debug\MyFirstSite.Domain.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.Domain\obj\Debug\MyFirstSite.Domain.pdb

@@ -1,0 +1,480 @@
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\MyFirstSite.WebUI.dll.config
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\MyFirstSite.WebUI.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\MyFirstSite.WebUI.pdb
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\csc.exe
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\csc.exe.config
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\csc.rsp
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\csi.exe
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\csi.exe.config
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\csi.rsp
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.AppContext.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Collections.Immutable.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Console.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.IO.Compression.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.IO.FileSystem.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.IO.Pipes.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Security.AccessControl.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Security.Claims.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.ValueTuple.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Xml.XPath.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\vbc.exe
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\vbc.exe.config
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\vbc.rsp
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\VBCSCompiler.exe
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\roslyn\VBCSCompiler.exe.config
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\Microsoft.Web.Infrastructure.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\Moq.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\MyFirstSite.Domain.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\Newtonsoft.Json.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\Ninject.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\Ninject.Web.Common.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\Ninject.Web.Mvc.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Net.Http.Formatting.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Web.Helpers.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Web.Http.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Web.Http.WebHost.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Web.Mvc.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Web.Razor.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Web.Webpages.Deployment.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Web.Webpages.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Web.Webpages.Razor.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\WebActivator.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\MyFirstSite.Domain.pdb
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\Moq.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\Ninject.pdb
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\Ninject.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\Ninject.Web.Common.pdb
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\Ninject.Web.Common.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\Ninject.Web.Mvc.pdb
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\Ninject.Web.Mvc.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Web.Razor.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Web.Webpages.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Web.Webpages.Deployment.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Web.Webpages.Razor.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Web.Helpers.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Web.Mvc.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\Newtonsoft.Json.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Net.Http.Formatting.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Web.Http.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\System.Web.Http.WebHost.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.csprojAssemblyReference.cache
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.csproj.CoreCompileInputs.cache
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.csproj.CopyComplete
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.pdb
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\EntityFramework.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\EntityFramework.SqlServer.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\MyFirstSite.Domain.dll.config
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\EntityFramework.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.WebUI\bin\EntityFramework.SqlServer.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\MyFirstSite.WebUI.dll.config
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\MyFirstSite.WebUI.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\MyFirstSite.WebUI.pdb
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\csc.exe
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\csc.exe.config
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\csc.rsp
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\csi.exe
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\csi.exe.config
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\csi.rsp
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.AppContext.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Collections.Immutable.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Console.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.IO.Compression.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.IO.FileSystem.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.IO.Pipes.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Security.AccessControl.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Security.Claims.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.ValueTuple.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Xml.XPath.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\vbc.exe
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\vbc.exe.config
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\vbc.rsp
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\VBCSCompiler.exe
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\roslyn\VBCSCompiler.exe.config
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\EntityFramework.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\EntityFramework.SqlServer.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\Microsoft.Web.Infrastructure.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\Moq.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\MyFirstSite.Domain.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\Newtonsoft.Json.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\Ninject.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\Ninject.Web.Common.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\Ninject.Web.Mvc.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Net.Http.Formatting.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Web.Helpers.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Web.Http.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Web.Http.WebHost.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Web.Mvc.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Web.Razor.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Web.Webpages.Deployment.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Web.Webpages.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Web.Webpages.Razor.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\WebActivator.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\MyFirstSite.Domain.pdb
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\MyFirstSite.Domain.dll.config
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\EntityFramework.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\EntityFramework.SqlServer.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\Moq.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\Ninject.pdb
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\Ninject.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\Ninject.Web.Common.pdb
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\Ninject.Web.Common.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\Ninject.Web.Mvc.pdb
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\Ninject.Web.Mvc.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Web.Razor.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Web.Webpages.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Web.Webpages.Deployment.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Web.Webpages.Razor.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Web.Helpers.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Web.Mvc.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\Newtonsoft.Json.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Net.Http.Formatting.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Web.Http.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\System.Web.Http.WebHost.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.csprojAssemblyReference.cache
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.csproj.CoreCompileInputs.cache
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.csproj.CopyComplete
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.dll
+G:\C#\ASP MVC\SiteStore\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.pdb
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.WebUI.dll.config
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.WebUI.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.WebUI.pdb
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csc.exe
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csc.exe.config
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csc.rsp
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csi.exe
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csi.exe.config
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csi.rsp
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.AppContext.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Collections.Immutable.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Console.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.IO.Compression.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.IO.FileSystem.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.IO.Pipes.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.AccessControl.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Claims.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.ValueTuple.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Xml.XPath.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\vbc.exe
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\vbc.exe.config
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\vbc.rsp
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\VBCSCompiler.exe
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\VBCSCompiler.exe.config
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\EntityFramework.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\EntityFramework.SqlServer.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Microsoft.Web.Infrastructure.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Moq.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.Domain.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Newtonsoft.Json.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Common.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Mvc.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Net.Http.Formatting.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Helpers.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Http.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Http.WebHost.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Mvc.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Razor.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.Deployment.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.Razor.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\WebActivator.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.Domain.pdb
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.Domain.dll.config
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\EntityFramework.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\EntityFramework.SqlServer.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Moq.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.pdb
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Common.pdb
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Common.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Mvc.pdb
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Mvc.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Razor.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.Deployment.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.Razor.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Helpers.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Mvc.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Newtonsoft.Json.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Net.Http.Formatting.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Http.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Http.WebHost.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.csprojAssemblyReference.cache
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.csproj.CoreCompileInputs.cache
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.csproj.CopyComplete
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.pdb
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.WebUI.dll.config
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.WebUI.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.WebUI.pdb
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csc.exe
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csc.exe.config
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csc.rsp
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csi.exe
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csi.exe.config
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csi.rsp
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.AppContext.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Collections.Immutable.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Console.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.IO.Compression.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.IO.FileSystem.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.IO.Pipes.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.AccessControl.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Claims.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.ValueTuple.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Xml.XPath.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\vbc.exe
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\vbc.exe.config
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\vbc.rsp
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\VBCSCompiler.exe
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\VBCSCompiler.exe.config
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\EntityFramework.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\EntityFramework.SqlServer.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Microsoft.Web.Infrastructure.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Moq.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.Domain.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Newtonsoft.Json.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Common.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Mvc.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Net.Http.Formatting.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Helpers.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Http.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Http.WebHost.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Mvc.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Razor.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.Deployment.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.Razor.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\WebActivator.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.Domain.pdb
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.Domain.dll.config
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\EntityFramework.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\EntityFramework.SqlServer.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Moq.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.pdb
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Common.pdb
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Common.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Mvc.pdb
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Mvc.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Razor.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.Deployment.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.Razor.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Helpers.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Mvc.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Newtonsoft.Json.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Net.Http.Formatting.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Http.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Http.WebHost.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.csprojAssemblyReference.cache
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.csproj.CoreCompileInputs.cache
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.csproj.CopyComplete
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.pdb
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.WebUI.dll.config
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.WebUI.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.WebUI.pdb
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csc.exe
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csc.exe.config
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csc.rsp
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csi.exe
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csi.exe.config
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\csi.rsp
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.AppContext.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Console.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\vbc.exe
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\vbc.exe.config
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\vbc.rsp
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\EntityFramework.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\EntityFramework.SqlServer.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Moq.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.Domain.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Newtonsoft.Json.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Common.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Mvc.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Net.Http.Formatting.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Helpers.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Http.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Http.WebHost.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Mvc.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Razor.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\WebActivator.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.Domain.pdb
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\MyFirstSite.Domain.dll.config
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\EntityFramework.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\EntityFramework.SqlServer.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Moq.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.pdb
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Common.pdb
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Common.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Ninject.Web.Mvc.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Razor.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Helpers.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Mvc.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Newtonsoft.Json.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Net.Http.Formatting.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Http.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\System.Web.Http.WebHost.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.csprojAssemblyReference.cache
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.csproj.CoreCompileInputs.cache
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.csproj.CopyComplete
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.dll
+C:\C#\C#\SITE_INTERNET_SHOP\MyFirstSite.WebUI\obj\Debug\MyFirstSite.WebUI.pdb

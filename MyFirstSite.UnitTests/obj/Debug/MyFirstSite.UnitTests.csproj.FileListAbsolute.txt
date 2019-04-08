@@ -1,0 +1,165 @@
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.UnitTests.dll.config
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.UnitTests.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.UnitTests.pdb
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Moq.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.Domain.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.WebUI.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Ninject.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Common.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Web.Helpers.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Web.Mvc.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Web.Razor.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\WebActivator.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\EntityFramework.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Web.Http.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Web.Http.WebHost.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Newtonsoft.Json.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.Domain.pdb
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.Domain.dll.config
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.WebUI.pdb
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.WebUI.dll.config
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Moq.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Ninject.pdb
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Ninject.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Common.pdb
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Common.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Mvc.pdb
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Web.Helpers.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Web.Mvc.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Web.Razor.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\EntityFramework.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Web.Http.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Web.Http.WebHost.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\obj\Debug\MyFirstSite.UnitTests.csprojAssemblyReference.cache
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\obj\Debug\MyFirstSite.UnitTests.csproj.CoreCompileInputs.cache
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\obj\Debug\MyFirstSite.UnitTests.csproj.CopyComplete
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\obj\Debug\MyFirstSite.UnitTests.dll
+G:\C#\ASP MVC\MyFirstSite\MyFirstSite.UnitTests\obj\Debug\MyFirstSite.UnitTests.pdb
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\obj\Debug\MyFirstSite.UnitTests.csprojAssemblyReference.cache
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\obj\Debug\MyFirstSite.UnitTests.csproj.CoreCompileInputs.cache
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\obj\Debug\MyFirstSite.UnitTests.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\obj\Debug\MyFirstSite.UnitTests.pdb
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.UnitTests.dll.config
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.UnitTests.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.UnitTests.pdb
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Moq.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.Domain.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.WebUI.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Common.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Helpers.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Mvc.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Razor.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\WebActivator.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\EntityFramework.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Http.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Http.WebHost.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Newtonsoft.Json.dll
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.Domain.pdb
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.Domain.dll.config
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.WebUI.pdb
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.WebUI.dll.config
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Moq.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.pdb
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Common.pdb
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Common.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Mvc.pdb
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Helpers.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Mvc.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Razor.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\EntityFramework.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Http.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Http.WebHost.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+G:\C#\ASP MVC\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\obj\Debug\MyFirstSite.UnitTests.csproj.CopyComplete
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\obj\Debug\MyFirstSite.UnitTests.csprojAssemblyReference.cache
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\obj\Debug\MyFirstSite.UnitTests.csproj.CoreCompileInputs.cache
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\obj\Debug\MyFirstSite.UnitTests.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\obj\Debug\MyFirstSite.UnitTests.pdb
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.UnitTests.dll.config
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.UnitTests.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.UnitTests.pdb
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Moq.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.Domain.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.WebUI.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Common.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Helpers.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Mvc.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Razor.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\WebActivator.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\EntityFramework.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Http.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Http.WebHost.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Newtonsoft.Json.dll
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.Domain.pdb
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.Domain.dll.config
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.WebUI.pdb
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\MyFirstSite.WebUI.dll.config
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Moq.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.pdb
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Common.pdb
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Common.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Mvc.pdb
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Helpers.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Mvc.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Razor.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\EntityFramework.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Http.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Web.Http.WebHost.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+G:\C#\SITE_INTERNET_SHOP\MyFirstSite.UnitTests\obj\Debug\MyFirstSite.UnitTests.csproj.CopyComplete

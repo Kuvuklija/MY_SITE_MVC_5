@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+
+    <!--for unobtrusive js and Ajax in the List.cshtml-->
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+
+    <!--common variables-->
+    <style type="text/css">
+        .input-validation-error{border:2px solid #f00; background-color:#fee;}
+         input[type="checkbox"].input-validation-error { outline: 1px solid #f00;}
+        .field-validation-valid{display:none;}
+        .field-validation-error{color:#f00;}
+        .validation-summary-errors{font-weight:bold; color:#f00;}
+        .validation-summary-valid{display:none;}
+        @*sensitive design for Summary.chtml*@
+        .navbar-right{float:right !important; margin-right: 15px; margin-left:15px;}
+    </style>
+
+</head>
+<body>
+    <div class="navbar navbar-inverse" role="navigation">
+        <a class="navbar navbar-brand" href="#">
+            <span class="hidden-xs">PRODUCTS STORE</span>
+            <div class="visible-xs">PRODUCTS</div>
+            <div class="visible-xs">STORE</div>
+        </a>
+        @Html.Action("Summary", "Cart")
+    </div>
+
+    <div class="row panel-info">
+        <div id="categories" class="col-sm-3 hidden-xs">
+           @Html.Action("Menu", "Nav")
+        </div>
+        <div id="categories" class="visible-xs">
+            @Html.Action("Menu", "Nav", new { horizontalLayout=true})
+        </div>
+        <div class="col-sm-9 col-xs-12">
+            @RenderBody()
+        </div>
+    </div>
+
+</body>
+</html>

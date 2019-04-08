@@ -1,0 +1,14 @@
+﻿@model MyFirstSite.WebUI.Models.SelectedCategoryModel
+
+@Html.ActionLink("Home", "List", "Product", null, new { @class = "btn btn-block btn-default btn-lg" })
+
+@foreach (var linkCategory in Model.categories){
+    @Html.RouteLink(linkCategory, new{
+        controller="Product",
+        action="List",
+        category= linkCategory, 
+        page= 1               
+    }, new {@class="btn btn-block btn-default btn-lg"
+                   + (linkCategory == Model.selectedCategory  ?" btn-primary":"")
+    })
+}
