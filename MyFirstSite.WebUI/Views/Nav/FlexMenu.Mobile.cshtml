@@ -1,0 +1,20 @@
+﻿@model MyFirstSite.WebUI.Models.SelectedCategoryModel
+
+<div data-role="navbar">
+    <ul>
+        @foreach (var link in Model.categories){
+            <li>
+                @Html.RouteLink(link, new {
+                    controller="Product",
+                    action="List",
+                    page=1,
+                    category=link
+                }, new{
+                    data_transition="fade",
+                    @class=(link==Model.selectedCategory ?"ui-btn-active":null)
+                })
+            </li>
+        }
+    </ul>
+</div>
+
